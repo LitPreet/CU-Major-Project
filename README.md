@@ -50,7 +50,7 @@ In order to install and run this project locally, you would need to have the fol
 #### step 1
 Download or clone this repo by using the link below:
 ```
-https://github.com/LitPreet/Dev-Vault.git
+https://github.com/LitPreet/CU-Major-Project.git
 ```
 #### step 2
 Execute the following command in the root directory of the downloaded repo in order to install dependencies:
